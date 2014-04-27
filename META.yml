@@ -1,9 +1,8 @@
 name: OrnsteinUhlenbeckBridge
 version: 1.0.0
-author: 
-email: 
-website-url:
-download-url:
-github-url:
-description:
-
+author: Lawrence Murray
+email: lawrence.murray@csiro.au
+website-url: http://www.github.com/lawmurray/OrnsteinUhlenbeckBridge
+download-url: http://www.github.com/lawmurray/OrnsteinUhlenbeckBridge/archive/master.tar.gz
+github-url: http://www.github.com/lawmurray/OrnsteinUhlenbeckBridge
+description: Ornstein--Uhlenbeck model for diffusion bridge sampling.
