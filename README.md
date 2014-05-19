@@ -58,4 +58,4 @@ Aït-Sahalia, Y. Transition Densities for Interest Rate and Other Nonlinear
 Diffusions. *The Journal of Finance*, 1999, 54, 1361--1395.
 
 Del Moral, P. & Murray, L. M. Sequential Monte Carlo with Highly Informative
-Observations, 2014.
+Observations, 2014. [\[arXiv\]](http://arxiv.org/abs/1405.4081)
